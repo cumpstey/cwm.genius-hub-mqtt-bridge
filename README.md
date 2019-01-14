@@ -1,1 +1,3 @@
-cwm.genius-hub-mqtt-bridge
+# Genius Hub MQTT bridge
+
+

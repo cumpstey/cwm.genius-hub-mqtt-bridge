@@ -1,0 +1,17 @@
+{
+  "name": "genius-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neil Cumpstey",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "async-poll": "^0.2.0",
+    "axios": "^0.18.0",
+    "mqtt": "^2.18.8"
+  }
+}
